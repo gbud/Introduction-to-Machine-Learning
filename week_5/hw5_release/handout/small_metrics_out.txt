@@ -1,0 +1,22 @@
+epoch=1 crossentropy(train): 1.3696008504051067
+epoch=1 crossentropy(validation): 1.5071185615736724
+epoch=2 crossentropy(train): 1.06718498953744
+epoch=2 crossentropy(validation): 1.3057265419300617
+epoch=3 crossentropy(train): 0.8939003175400287
+epoch=3 crossentropy(validation): 1.2200257699035115
+epoch=4 crossentropy(train): 0.7624328578911682
+epoch=4 crossentropy(validation): 1.1726110951880893
+epoch=5 crossentropy(train): 0.669870744873241
+epoch=5 crossentropy(validation): 1.1473247233821275
+epoch=6 crossentropy(train): 0.6045019675616641
+epoch=6 crossentropy(validation): 1.1302121485215983
+epoch=7 crossentropy(train): 0.5530459072707152
+epoch=7 crossentropy(validation): 1.1088675000366495
+epoch=8 crossentropy(train): 0.5095816874037304
+epoch=8 crossentropy(validation): 1.111822430744212
+epoch=9 crossentropy(train): 0.47434037384934885
+epoch=9 crossentropy(validation): 1.1209364732533873
+epoch=10 crossentropy(train): 0.44376357930043975
+epoch=10 crossentropy(validation): 1.1273463993357595
+error(train): 0.072
+error(test): 0.4

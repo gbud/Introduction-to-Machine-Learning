@@ -1,0 +1,2 @@
+Average Log-Likelihood: -62.74490447656765
+Accuracy: 0.8649692574491565

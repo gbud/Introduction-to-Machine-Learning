@@ -1,0 +1,10 @@
+win	C
+league	C
+Liverpool	D
+
+win	C
+Liverpool	D
+league	C
+
+Liverpool	D
+win	C
